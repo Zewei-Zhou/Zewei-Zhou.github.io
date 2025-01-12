@@ -29,7 +29,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [_ECCV 2024_](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
 - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [_iScience (Cell Press)_](https://www.cell.com/iscience/home)！
-- *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, providing a valet experience.
+- *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project).
 
 # 📝 Publications 
 
@@ -120,12 +120,12 @@ _**Student Researcher**_
 </div>
 
 # 📖 Educations
-- *2020.09 - 2023.06*, M.S., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (Tongji), Shanghai, China **(Test Waiver Admission, Ranking: 1<sup>st</sup>/154)**
+- *2020.09 - 2023.06*, M.S., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (Tongji), Shanghai, China **(Test Waiver Admission)**
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) with a $750k award
-- *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) !
+- *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
@@ -150,4 +150,4 @@ _**Student Researcher**_
 
 # 🏓 Miscellaneous
 - I am a big fan of guitar, especially [Fingerstyle](https://en.wikipedia.org/wiki/Fingerstyle_guitar). My favorite acoustic guitarist is [Satoshi Gogo](https://en.gogosatoshi.com/). I also enjoy playing ping pong and badminton.
-- I enjoy graphic design, and designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/china-srf-centre/) of Tongji and Cambridge.
+- I enjoy graphic design, and designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/) of Tongji University and University of Cambridge.
