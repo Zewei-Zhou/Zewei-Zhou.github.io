@@ -22,10 +22,11 @@ redirect_from:
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
 - *2024.09*: &nbsp;🤞 Our three papers have been submitted to [ICRA 2025](https://2025.ieee-icra.org/). Fingers crossed!
-- *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [_Best Paper Award for Outstanding Survey_]() of [_T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
-- *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [_ECCV 2024_](). 
+- *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
+- *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [_ECCV 2024_](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
 - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [_iScience (Cell Press)_](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, providing a valet experience.
@@ -123,12 +124,14 @@ _**Student Researcher**_
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
-- *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) !
-- *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge)
+- *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) with a $750k award
+- *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) !
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
 - *2018.09* &nbsp; National Scholarship, China (**Top 1%**)
+
+<!-- - *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT Stage 1A with a ](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -142,9 +145,9 @@ _**Student Researcher**_
 - IEEE International Conference on Robotics and Automation (ICRA) 2025, IEEE Intelligent Vehicles Symposium (IV) 2024, IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2024
 
 **Journal Reviewer**: 
-- IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Open Journal of Intelligent Transportation Systems, Proc. IMechE, Part D: Journal of Automobile Engineering
+- IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Open Journal of Intelligent Transportation Systems
 
 
 # 🏓 Miscellaneous
 - I am a big fan of guitar, especially [Fingerstyle](https://en.wikipedia.org/wiki/Fingerstyle_guitar). My favorite acoustic guitarist is [Satoshi Gogo](https://en.gogosatoshi.com/). I also enjoy playing ping pong and badminton.
-- I have some experience in graphic design, and I designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/china-srf-centre/) of Tongji and Cambridge.
+- I enjoy graphic design, and designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/china-srf-centre/) of Tongji and Cambridge.
