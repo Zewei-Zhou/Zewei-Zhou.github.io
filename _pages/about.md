@@ -129,8 +129,9 @@ _**Student Researcher**_
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
-- *2019.09* &nbsp; Gratitude for Scientists Scholarship (**Highest scholarship in CQU, Top 0.2%**)
+- *2019.09* &nbsp; Gratitude to Scientists Scholarship (**Highest scholarship in CQU, Top 0.2%**)
 - *2018.09* &nbsp; National Scholarship, China (**Top 1%**)
+- *2018-2019* &nbsp; CQU First-class Scholarship (Four times, 2%)
 
 <!-- - *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT Stage 1A with a ](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) -->
 
@@ -143,7 +144,7 @@ _**Student Researcher**_
 
 # 📚 Academic Services
 **Conference Reviewer**: 
-- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, IEEE International Conference on Robotics and Automation (ICRA) 2025, IEEE Intelligent Vehicles Symposium (IV) 2024, IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2024
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, IEEE International Conference on Robotics and Automation (ICRA) 2025, IEEE Intelligent Vehicles Symposium (IV) 2024, IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2024
 
 **Journal Reviewer**: 
 - IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Open Journal of Intelligent Transportation Systems
