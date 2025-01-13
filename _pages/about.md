@@ -120,6 +120,7 @@ _**Student Researcher**_
 </div>
 
 # 📖 Educations
+- *2023.09 - Now*, Ph.D., Transportation Engineering, <img src='images/ucla_seal.jpg' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> University of California, Los Angeles (UCLA), U.S.
 - *2020.09 - 2023.06*, M.S., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (Tongji), Shanghai, China **(Test Waiver Admission)**
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
@@ -131,7 +132,7 @@ _**Student Researcher**_
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
 - *2019.09* &nbsp; Gratitude to Scientists Scholarship (**Highest scholarship in CQU, Top 0.2%**)
 - *2018.09* &nbsp; National Scholarship, China (**Top 1%**)
-- *2018-2019* &nbsp; CQU First-class Scholarship (Four times, 2%)
+- *2018-2019* &nbsp; CQU First-class Scholarship (Four times, **Top 2  %**)
 
 <!-- - *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT Stage 1A with a ](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) -->
 
