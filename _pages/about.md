@@ -125,7 +125,7 @@ _**Student Researcher**_
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
-- *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) with a $750k award
+- *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
 - *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
