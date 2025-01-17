@@ -144,6 +144,9 @@ _**Student Researcher**_
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Academic Services
+**Workshop Organizer**:
+- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/) in CVPR 2025.
+
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, IEEE International Conference on Robotics and Automation (ICRA) 2025, IEEE Intelligent Vehicles Symposium (IV) 2024, IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2024
 
