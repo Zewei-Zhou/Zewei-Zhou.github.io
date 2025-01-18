@@ -118,6 +118,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none !important;
+  // color: #2c4a88 !important;
   
   &:focus {
     @extend %tab-focus;

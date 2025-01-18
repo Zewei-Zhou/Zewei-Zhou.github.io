@@ -25,10 +25,10 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
 - *2024.09*: &nbsp;🤞 Our three papers have been submitted to [ICRA 2025](https://2025.ieee-icra.org/). Fingers crossed!
-- *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
+- *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
 - *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [_ECCV 2024_](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
-- *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [_iScience (Cell Press)_](https://www.cell.com/iscience/home)！
+- *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project).
 
 # 📝 Publications 
@@ -50,11 +50,13 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 **V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction**
 
-**Zewei Zhou**, Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Jacob Pham, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma
+**Zewei Zhou**, <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Jacob Pham, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
 
-_**arXiv**_, 2024 \| [_**Paper**_](https://arxiv.org/abs/2412.01812) \| [_**Project**_](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars)](https://github.com/Zewei-Zhou/V2XPnP)
+V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I).
 
-- We proposed V2XPnP, the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction, and V2XPnP Sequential Dataset, the first large-scale, real-world V2X sequential dataset featuring multiple agents and all V2X collaboration modes (VC, IC, V2V, I2I).
+<span style="color:#2c4a88;">arXiv, 2024</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
+
+
 </div>
 </div>
 
@@ -63,12 +65,12 @@ _**arXiv**_, 2024 \| [_**Paper**_](https://arxiv.org/abs/2412.01812) \| [_**Proj
 
 **V2X-Real: a Large-Scale Dataset for Vehicle-to-Everything Cooperative Perception**
 
-Hao Xiang, Zhaoliang Zheng, Xin Xia, Runsheng Xu, Letian Gao, **Zewei Zhou**, Xu Han, Xinkai Ji, Mingxi Li, Zonglin Meng, Jin Li, Mingyue Lei, Zhaoyang Ma, Zihang He, Haoxuan Ma, Yunshuang Yuan, Yingqian Zhao, Jiaqi Ma
+<span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Xin Xia, Runsheng Xu, Letian Gao,</span> **Zewei Zhou**<span style="color:#7a8288;">, Xu Han, Xinkai Ji, Mingxi Li, Zonglin Meng, Jin Li, Mingyue Lei, Zhaoyang Ma, Zihang He, Haoxuan Ma, Yunshuang Yuan, Yingqian Zhao, Jiaqi Ma</span>
 
-_**ECCV**_, 2024 \| [_**Paper**_](https://arxiv.org/abs/2403.16034) \| [_**Project**_](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars)](https://github.com/ucla-mobility/V2X-Real)
+V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception.
 
+<span style="color:#2c4a88;">ECCV, 2024</span>  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars)](https://github.com/ucla-mobility/V2X-Real)
 
-- We proposed V2X-Real, the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception.
 </div>
 </div>
 
@@ -78,11 +80,11 @@ _**ECCV**_, 2024 \| [_**Paper**_](https://arxiv.org/abs/2403.16034) \| [_**Proje
 
 **A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic**
 
-**Zewei Zhou**, Ziru Yang, Yuanjian Zhang, Yanjun Huang, Hong Chen, Zhuoping Yu
+**Zewei Zhou**, <span style="color:#7a8288;"> Ziru Yang, Yuanjian Zhang, Yanjun Huang, Hong Chen, Zhuoping Yu
 
-_**iScience (Cell Press)**_, 2022 \| [_**Paper**_](https://www.cell.com/iscience/fulltext/S2589-0042(22)00179-1)
+A complete picture of speed prediction and comprehensive analysis on speed prediction in transportation system at three levels, i.e. macro traffic, micro vehicles, and meso lane.
 
-- We aim to draw a complete picture of speed prediction, and comprehensively analyze existing research on speed prediction in transportation system at three levels, i.e. macro traffic, micro vehicles, and meso lane.
+<span style="color:#2c4a88;">iScience (Cell Press), 2022</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://www.cell.com/iscience/fulltext/S2589-0042(22)00179-1)
 </div>
 </div>
 
@@ -91,13 +93,13 @@ _**iScience (Cell Press)**_, 2022 \| [_**Paper**_](https://www.cell.com/iscience
 
 **A Survey on Trajectory-Prediction Methods for Autonomous Driving**
 
-Yanjun Huang, Jiatong Du, Ziru Yang, **Zewei Zhou**, Lin Zhang, Hong Chen
+<span style="color:#7a8288;"> Yanjun Huang, Jiatong Du, Ziru Yang,</span> **Zewei Zhou**<span style="color:#7a8288;">, Lin Zhang, Hong Chen</span>
 
-_**IEEE Transactions on Intelligent Vehicles**_, 2022 
+A comparative review and analysis of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
 
-[_Best Paper Award for Outstanding Survey_]()
+<span style="color:#2c4a88;">IEEE Transactions on Intelligent Vehicles, 2022</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
 
-- We provide a comparative review of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
+<span style="color:#68349a;"> **Best Paper Award for Outstanding Survey** </span>
 </div>
 </div>
 
@@ -108,12 +110,15 @@ _**IEEE Transactions on Intelligent Vehicles**_, 2022
 <div class='paper-box'><div class='paper-box-image'><img src='images/gif_parking.gif' alt="sym" width="95%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Automated Parking System for Electric Bus with Automated Guided Vehicles (AGV)](), Institute of Intelligent Vehicles, Tongji University, *2020.10 - 2021.12*
+**Automated Parking System with Automated Guided Vehicles (AGV)**
 
-_**Student Researcher**_
+<span style="color:#7a8288;"> Institute of Intelligent Vehicles, Tongji University, *2020.10 - 2021.12*</span>
 
-- We design an A*-based global motion planner for the given park and propose a cooperative planning and control framework for the four AGVs groups to coordinate their movement and guide them to move a bus to its destination.
-- The framework is validated and tested in a real bus and AGVs.
+**Student Researcher**
+
+Design an A*-based global motion planner for the given park and propose a cooperative planning and control framework for the four AGVs groups to coordinate their movement and guide them to move a bus to its destination. 
+
+The system is tested in a real AGVs platform and can provide a valet experience.
 
 
 </div>
@@ -126,7 +131,7 @@ _**Student Researcher**_
 
 # 🎖 Honors and Awards
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
-- *2024.08* &nbsp; [_Best Paper Award for Outstanding Survey_]() of [_IEEE T-IV_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
+- *2024.08* &nbsp; [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
@@ -148,10 +153,15 @@ _**Student Researcher**_
 - Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/) in CVPR 2025.
 
 **Conference Reviewer**: 
-- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, IEEE International Conference on Robotics and Automation (ICRA) 2025, IEEE Intelligent Vehicles Symposium (IV) 2024, IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2024
+- IEEE / CVF Computer Vision and Pattern Recognition \| [CVPR 2025](https://cvpr.thecvf.com/)
+- IEEE International Conference on Robotics and Automation \| [ICRA 2025](https://2025.ieee-icra.org/)
+- IEEE Intelligent Vehicles Symposium \| [IV 2024](https://ieee-iv.org/2024/) 
+- IEEE Intelligent Transportation Systems Conference  \| [ITSC 2023-2024](https://ieee-itsc.org/2024/)
 
 **Journal Reviewer**: 
-- IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Open Journal of Intelligent Transportation Systems
+- IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+- IEEE Transactions on Intelligent Vehicles \| [T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
+- IEEE Open Journal of Intelligent Transportation Systems \| [OJ-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8784355)
 
 
 # 🏓 Miscellaneous
