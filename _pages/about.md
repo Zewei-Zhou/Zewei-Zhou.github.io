@@ -69,7 +69,7 @@ V2XPnP includes the first open-source V2X spatio-temporal fusion framework for c
 
 V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception.
 
-<span style="color:#2c4a88;">ECCV, 2024</span>  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars)](https://github.com/ucla-mobility/V2X-Real)
+<span style="color:#2c4a88;">ECCV, 2024</span>  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/V2X-Real)
 
 </div>
 </div>
