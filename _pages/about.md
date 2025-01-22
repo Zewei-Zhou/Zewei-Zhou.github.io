@@ -26,7 +26,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
 - *2024.09*: &nbsp;🤞 Our three papers have been submitted to [ICRA 2025](https://2025.ieee-icra.org/). Fingers crossed!
 - *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
-- *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [_ECCV 2024_](https://eccv.ecva.net/virtual/2024/poster/988). 
+- *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [ECCV 2024](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
 - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project).
