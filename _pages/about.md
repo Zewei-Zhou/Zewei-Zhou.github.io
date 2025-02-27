@@ -22,9 +22,9 @@ redirect_from:
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. 
 
 # 🔥 News
+- *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
 - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
-- *2024.09*: &nbsp;🤞 Our three papers have been submitted to [ICRA 2025](https://2025.ieee-icra.org/). Fingers crossed!
 - *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
 - *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [ECCV 2024](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
@@ -44,6 +44,21 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Co-MTP.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**
+
+**Zewei Zhou***, <span style="color:#7a8288;">Xinyu Zhang*, Zhaoyi Wang, Yangjie Ji, Yanjun Huang, Hong Chen</span>
+
+Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning.
+
+<span style="color:#2c4a88;">ICRA, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| [![](https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/xiaomiaozhang/Co-MTP)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/V2XPnP_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
