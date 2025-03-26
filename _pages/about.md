@@ -170,6 +170,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition \| [CVPR 2025](https://cvpr.thecvf.com/)
 - IEEE International Conference on Robotics and Automation \| [ICRA 2025](https://2025.ieee-icra.org/)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems \| [IROS 2025](http://www.iros25.org/)
 - IEEE Intelligent Vehicles Symposium \| [IV 2024](https://ieee-iv.org/2024/) 
 - IEEE Intelligent Transportation Systems Conference  \| [ITSC 2023-2024](https://ieee-itsc.org/2024/)
 
