@@ -22,6 +22,8 @@ redirect_from:
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. 
 
 # 🔥 News
+- *2025.06*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/abs/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been released. Enjoy it! 
+- *2025.06*: &nbsp;👏 Our [CooperRisk]() paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
 - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
@@ -33,17 +35,20 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zewei Zhou***, <span style="color:#7a8288;">Tianhui Cai*, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ AutoVLA is a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving.
+
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/AutoVLA)
+
+
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Co-MTP.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
