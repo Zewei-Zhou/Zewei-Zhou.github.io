@@ -23,7 +23,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 # 🔥 News
 - *2025.06*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/abs/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been released. Enjoy it! 
-- *2025.06*: &nbsp;👏 Our [CooperRisk]() paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
+- *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/abs/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
 - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.12*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper on cooperative perception and prediction has been released. Enjoy it! 
@@ -33,7 +33,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project).
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
