@@ -50,17 +50,31 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/V2XPnP_framework.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/V2XPnP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction**
 
-**Zewei Zhou**, <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Jacob Pham, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
+**Zewei Zhou**, <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
 
 V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I).
 
 <span style="color:#2c4a88;">ICCV, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/TurboTrain.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction**
+
+**Zewei Zhou***, <span style="color:#7a8288;"> Seth Z. Zhao*, Tianhui Cai, Zhiyu Huang, Bolei Zhou, Jiaqi Ma </span>
+
+TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance.
+
+<span style="color:#2c4a88;">ICCV, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]()
 
 </div>
 </div>
@@ -80,7 +94,7 @@ Co-MTP is a general cooperative trajectory prediction framework with multi-tempo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/V2X-Real.png' alt="sym" width="95%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/V2X-Real.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **V2X-Real: a Large-Scale Dataset for Vehicle-to-Everything Cooperative Perception**
@@ -95,7 +109,7 @@ V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="95%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic**
@@ -108,7 +122,7 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="95%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A Survey on Trajectory-Prediction Methods for Autonomous Driving**
@@ -127,7 +141,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 # 🔬 Project
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/gif_parking.gif' alt="sym" width="95%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gif_parking.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Automated Parking System with Automated Guided Vehicles (AGV)**
@@ -170,7 +184,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 # 📚 Academic Services
 **Workshop Organizer**:
-- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/) in CVPR 2025.
+- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2025](https://drivex-workshop.github.io/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition \| [CVPR 2025](https://cvpr.thecvf.com/)
