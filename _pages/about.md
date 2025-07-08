@@ -23,8 +23,8 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 # 🔥 News
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain]() paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
-- *2025.06*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/abs/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been released. Enjoy it! 
-- *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/abs/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
+- *2025.06*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been released. Enjoy it! 
+- *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
 - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
 - *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
@@ -44,7 +44,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
  AutoVLA is a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving.
 
-<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/AutoVLA)
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/AutoVLA)
 
 
 </div>
@@ -59,7 +59,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I).
 
-<span style="color:#2c4a88;">ICCV, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
+[ICCV, 2025](https://iccv.thecvf.com/) & [RSS MRS Workshop, 2025](https://mrs-workshop.github.io/rss25/papers/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
 
 
 </div>
@@ -74,7 +74,7 @@ V2XPnP includes the first open-source V2X spatio-temporal fusion framework for c
 
 TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance.
 
-<span style="color:#2c4a88;">ICCV, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]()
+[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]()
 
 </div>
 </div>
@@ -88,7 +88,7 @@ TurboTrain is an efficient training framework for multi-agent perception and pre
 
 Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning.
 
-<span style="color:#2c4a88;">ICRA, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| [![](https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/xiaomiaozhang/Co-MTP)
+[ICRA, 2025](https://2025.ieee-icra.org/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| [![](https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/xiaomiaozhang/Co-MTP)
 
 
 </div>
@@ -103,7 +103,7 @@ Co-MTP is a general cooperative trajectory prediction framework with multi-tempo
 
 V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception.
 
-<span style="color:#2c4a88;">ECCV, 2024</span>  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/V2X-Real)
+[ECCV, 2024](https://eccv.ecva.net/Conferences/2024)  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/V2X-Real)
 
 </div>
 </div>
@@ -118,7 +118,7 @@ V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-t
 
 A complete picture of speed prediction and comprehensive analysis on speed prediction in transportation system at three levels, i.e. macro traffic, micro vehicles, and meso lane.
 
-<span style="color:#2c4a88;">iScience (Cell Press), 2022</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://www.cell.com/iscience/fulltext/S2589-0042(22)00179-1)
+[iScience (Cell Press), 2022](https://www.cell.com/iscience/home) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://www.cell.com/iscience/fulltext/S2589-0042(22)00179-1)
 </div>
 </div>
 
@@ -131,7 +131,7 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 
 A comparative review and analysis of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
 
-<span style="color:#2c4a88;">IEEE Transactions on Intelligent Vehicles, 2022</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
+[IEEE Transactions on Intelligent Vehicles, 2022](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
 
 <span style="color:#68349a;"> **Best Paper Award for Outstanding Survey** </span>
 </div>
