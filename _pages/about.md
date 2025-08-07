@@ -22,7 +22,7 @@ redirect_from:
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. 
 
 # 🔥 News
-- *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain]() paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
+- *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been released. Enjoy it! 
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
@@ -74,7 +74,7 @@ V2XPnP includes the first open-source V2X spatio-temporal fusion framework for c
 
 TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance.
 
-[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]()
+[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.04682) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://github.com/ucla-mobility/TurboTrain) \| [![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/TurboTrain)
 
 </div>
 </div>
@@ -185,7 +185,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 # 📚 Academic Services
 **Organizer**:
 - Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2025](https://drivex-workshop.github.io/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
-- Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drive.google.com/file/d/10jFzfK_Z6suyyfL_0_e5XXVf34Lw2eFq/view?usp=sharing) at [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
+- Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drive.google.com/file/d/10jFzfK_Z6suyyfL_0_e5XXVf34Lw2eFq/view?usp=sharing) at [ICCV 2025](https://iccv.thecvf.com/).
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition \| [CVPR 2025](https://cvpr.thecvf.com/)
