@@ -203,16 +203,16 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 - Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drive.google.com/file/d/10jFzfK_Z6suyyfL_0_e5XXVf34Lw2eFq/view?usp=sharing) at [ICCV 2025](https://iccv.thecvf.com/).
 
 **Conference Reviewer**: 
-- IEEE / CVF Computer Vision and Pattern Recognition \| [CVPR 2025](https://cvpr.thecvf.com/)
-- IEEE International Conference on Robotics and Automation \| [ICRA 2025](https://2025.ieee-icra.org/)
-- IEEE/RSJ International Conference on Intelligent Robots and Systems \| [IROS 2025](http://www.iros25.org/)
-- IEEE Intelligent Vehicles Symposium \| [IV 2024](https://ieee-iv.org/2024/) 
-- IEEE Intelligent Transportation Systems Conference  \| [ITSC 2023-2024](https://ieee-itsc.org/2024/)
+- IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
+- IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
+- IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros))
+- IEEE Intelligent Vehicles Symposium ([IV](https://ieee-iv.org/))
+- IEEE Intelligent Transportation Systems Conference ([ITSC](https://ieee-itsc.org/))
 
 **Journal Reviewer**: 
-- IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
-- IEEE Transactions on Intelligent Vehicles \| [T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
-- IEEE Open Journal of Intelligent Transportation Systems \| [OJ-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8784355)
+- IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))
+- IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
+- IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369))
 
 
 # 🏓 Miscellaneous
