@@ -79,6 +79,21 @@ TurboTrain is an efficient training framework for multi-agent perception and pre
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/RiskMM.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Risk Map As Middleware: Towards Interpretable Cooperative End-to-end Autonomous Driving for Risk-Aware Planning**
+
+**Zewei Zhou***, <span style="color:#7a8288;">Mingyue Lei*, Hongchen Li, Jiaqi Ma, Jia Hu</span>
+
+RiskMM is an interpretable end-to-end cooperative driving framework by incorporating the Risk Map as Middleware, which explicitly captures the spatiotemporal risk distribution and facilitates planning with learning-based MPC.
+
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.07686) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() 
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/Co-MTP.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
