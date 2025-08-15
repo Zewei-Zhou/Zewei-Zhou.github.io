@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zewei Zhou - Homepage"
+excerpt: "Zewei Zhou is a PhD student in the UCLA Mobility Lab, and research focuses on the scene understanding and reasoning of autonomous systems which enables vehicles/robots to intelligently interact and cooperate with others."
 author_profile: true
 redirect_from: 
   - /about/
@@ -200,7 +200,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 # 📚 Academic Services
 **Organizer**:
 - Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2025](https://drivex-workshop.github.io/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
-- Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drive.google.com/file/d/10jFzfK_Z6suyyfL_0_e5XXVf34Lw2eFq/view?usp=sharing) at [ICCV 2025](https://iccv.thecvf.com/).
+- Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at [ICCV 2025](https://iccv.thecvf.com/).
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))

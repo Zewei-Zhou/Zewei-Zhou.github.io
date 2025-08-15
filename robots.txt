@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zewei-zhou.github.io/sitemap.xml
