@@ -1,4 +1,5 @@
 <!-- begin SEO -->
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 {% if site.url %}
   {% assign seo_url = site.url %}
 {% endif %}
@@ -32,6 +33,10 @@
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
+<meta property="og:image" content="{{ site.url }}/{{ site.author.avatar }}">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:image:alt" content="{{ site.author.name }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -47,6 +52,9 @@
   <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
   <meta name="twitter:description" content="{{ seo_description }}">
   <meta name="twitter:url" content="{{ canonical_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}/{{ site.author.avatar }}">
+  <meta name="twitter:image:alt" content="{{ site.author.name }}">
 
   {% if seo_author_twitter %}
     <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
