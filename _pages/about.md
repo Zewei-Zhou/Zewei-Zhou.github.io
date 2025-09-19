@@ -22,7 +22,7 @@ redirect_from:
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others.
 
 # 🔥 News
-- *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model (VLA) for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
+- *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
