@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zewei Zhou - Homepage"
-description              : "Zewei Zhou - PhD Student at UCLA specializing in AI and Autonomous Driving. Research interests include trajectory prediction, V2X communication, and machine learning for autonomous vehicles."
+description              : ""
 repository               : "Zewei-Zhou/Zewei-Zhou.github.io"
 url                      : "https://zewei-zhou.github.io"
 google_scholar_stats_use_cdn : false
