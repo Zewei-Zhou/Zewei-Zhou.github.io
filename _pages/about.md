@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student in the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, and conducted research at the Institute of Intelligent Vehicles (TJU-IIV) directed by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
+👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others.
+My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. My research is supported by [Amazon AI Fellowship]().
+
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI Fellow]() for 2025, and received the [Amazon AI Fellowship](). Thanks, Amazon!
 - *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
@@ -30,8 +32,9 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
 - *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [ECCV 2024](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
-- *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
-- *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project).
+
+<!-- - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
+- *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
 
 # 📝 Selected Publications 
 
@@ -179,6 +182,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
+- *2025.09* &nbsp; [Amazon AI Fellowship]()
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
 - *2024.08* &nbsp; [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
@@ -186,7 +190,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
 - *2019.09* &nbsp; Gratitude to Scientists Scholarship (**Highest scholarship in CQU, Top 0.2%**)
 - *2018.09* &nbsp; National Scholarship, China (**Top 1%**)
-- *2018-2019* &nbsp; CQU First-class Scholarship (Four times, **Top 2  %**)
+<!-- - *2018-2019* &nbsp; CQU First-class Scholarship (Four times, **Top 2  %**) -->
 
 <!-- - *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT Stage 1A with a ](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) -->
 
