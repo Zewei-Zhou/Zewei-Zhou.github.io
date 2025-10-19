@@ -23,7 +23,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI Fellow]() for 2025, and received the [Amazon AI Fellowship](). Thanks, Amazon!
+- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI Fellow]() for 2025, and received the [Amazon AI Fellowship]().
 - *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
