@@ -127,7 +127,7 @@ V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/Comprehensive_Study_of_Speed_Prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A Comprehensive Study of Speed Prediction in Transportation System: From Vehicle to Traffic**
@@ -138,7 +138,7 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 
 [iScience (Cell Press), 2022](https://www.cell.com/iscience/home) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://www.cell.com/iscience/fulltext/S2589-0042(22)00179-1)
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
