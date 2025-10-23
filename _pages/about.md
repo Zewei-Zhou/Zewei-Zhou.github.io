@@ -23,6 +23,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
 - *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI Fellow]() for 2025, and received the [Amazon AI Fellowship]().
 - *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
@@ -62,8 +63,9 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I).
 
-[ICCV, 2025](https://iccv.thecvf.com/) & [RSS MRS Workshop, 2025](https://mrs-workshop.github.io/rss25/papers/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
+<span style="color:#68349a;"> **Best Paper Award, ICCV 2025 DriveX Workshop** </span>
 
+[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
 
 </div>
 </div>
@@ -149,9 +151,11 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 
 A comparative review and analysis of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
 
+<span style="color:#68349a;"> **Best Paper Award for Outstanding Survey, IEEE T-IV** </span>
+
 [IEEE Transactions on Intelligent Vehicles, 2022](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
 
-<span style="color:#68349a;"> **Best Paper Award for Outstanding Survey** </span>
+
 </div>
 </div>
 
@@ -182,9 +186,10 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 - *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
+- *2025.10* &nbsp; [Best Paper Award, ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)
 - *2025.09* &nbsp; [Amazon AI Fellowship]()
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
-- *2024.08* &nbsp; [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
+- *2024.08* &nbsp; [Best Paper Award for Outstanding Survey](), [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
 - *2022.11* &nbsp; Weichai Scholarship (**Top 2%**)
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
