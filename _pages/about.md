@@ -19,7 +19,7 @@ redirect_from:
 
 👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. My research is supported by [Amazon AI Fellowship]().
+My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Amazon AI Fellowship]().
 
 
 # 🔥 News
@@ -93,7 +93,7 @@ TurboTrain is an efficient training framework for multi-agent perception and pre
 
 RiskMM is an interpretable end-to-end cooperative driving framework by incorporating the Risk Map as Middleware, which explicitly captures the spatiotemporal risk distribution and facilitates planning with learning-based MPC.
 
-<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.07686) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() 
+[RA-L, 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.07686) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>]() 
 
 
 </div>
