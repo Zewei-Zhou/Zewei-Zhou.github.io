@@ -37,7 +37,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 <!-- - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
 
-# 📝 Selected Publications 
+# 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;">( [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) )</span>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -153,7 +153,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 <span style="color:#68349a;"> **Best Paper Award for Outstanding Survey, IEEE T-IV** </span>
 
-[IEEE Transactions on Intelligent Vehicles, 2022](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
+[IEEE Transactions on Intelligent Vehicles (T-IV), 2022](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/document/9756903)
 
 
 </div>
