@@ -19,12 +19,12 @@ redirect_from:
 
 👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Amazon AI Fellowship]().
+My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
 
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
-- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI Fellow]() for 2025, and received the [Amazon AI Fellowship]().
+- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI PhD Fellow](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer) for 2025, and received the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 - *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and driving risk quantification has been accepted by [IROS 2025](https://www.iros25.org/).
@@ -187,7 +187,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp; [Best Paper Award, ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)
-- *2025.09* &nbsp; [Amazon AI Fellowship]()
+- *2025.09* &nbsp; [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer)
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
 - *2024.08* &nbsp; [Best Paper Award for Outstanding Survey](), [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - *2023.06* &nbsp; Shanghai Outstanding Graduate (**Top 1%**)
