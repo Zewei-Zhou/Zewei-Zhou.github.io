@@ -187,6 +187,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp; [Best Paper Award, ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)
+- *2025.10* &nbsp; [NeurIPS 2025 Scholar Award](https://neurips.cc/)
 - *2025.09* &nbsp; [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer)
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
 - *2024.08* &nbsp; [Best Paper Award for Outstanding Survey](), [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
@@ -208,12 +209,13 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 # 📚 Academic Services
 **Organizer**:
-- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2025](https://drivex-workshop.github.io/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
+- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2026](https://drivex-workshop.github.io/cvpr2026/), [CVPR 2025](https://drivex-workshop.github.io/cvpr2025/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
 - Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at [ICCV 2025](https://iccv.thecvf.com/).
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
 - IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
+- Annual AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/))
 - IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros))
 - IEEE Intelligent Vehicles Symposium ([IV](https://ieee-iv.org/))
 - IEEE Intelligent Transportation Systems Conference ([ITSC](https://ieee-itsc.org/))
