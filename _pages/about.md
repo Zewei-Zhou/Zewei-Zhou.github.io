@@ -221,6 +221,7 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 - IEEE Intelligent Transportation Systems Conference ([ITSC](https://ieee-itsc.org/))
 
 **Journal Reviewer**: 
+- International Journal of Computer Vision ([IJCV](https://link.springer.com/journal/11263))
 - IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))
 - IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
 - IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369))
