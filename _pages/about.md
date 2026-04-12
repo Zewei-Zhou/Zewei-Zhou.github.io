@@ -214,17 +214,18 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
-- IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
+- Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
 - Annual AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/))
+- IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
 - IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros))
 - IEEE Intelligent Vehicles Symposium ([IV](https://ieee-iv.org/))
 - IEEE Intelligent Transportation Systems Conference ([ITSC](https://ieee-itsc.org/))
 
 **Journal Reviewer**: 
 - International Journal of Computer Vision ([IJCV](https://link.springer.com/journal/11263))
+- IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369))
 - IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))
 - IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
-- IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369))
 
 
 # 🏓 Miscellaneous
