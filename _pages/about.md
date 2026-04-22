@@ -23,13 +23,14 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 
 # 🔥 News
+- *2026.04*: &nbsp;👏 Our [SpanVLA](https://spanvla.github.io/) paper on eficient action bridging and learning from negative-recovery samples for VLA Model has been released!
 - *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
 - *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI PhD Fellow](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer) for 2025, and received the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 - *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
 - *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
 - *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and risk quantification has been accepted by [IROS 2025 (Oral)](https://www.iros25.org/).
 - *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
-- *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award!
+<!-- - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award! -->
 - *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
 - *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [ECCV 2024](https://eccv.ecva.net/virtual/2024/poster/988). 
 - *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
@@ -38,6 +39,21 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
 
 # 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;">( [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) )</span>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/SpanVLA_demo.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**
+
+**Zewei Zhou***, <span style="color:#7a8288;">Ruining Yang*, Tony Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma</span>
+
+SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness.
+
+[Arxiv, 2026](https://arxiv.org/abs/2604.19710) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
