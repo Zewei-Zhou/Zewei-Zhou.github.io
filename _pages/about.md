@@ -49,7 +49,8 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness.
 
-[Arxiv, 2026](https://arxiv.org/abs/2604.19710) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/)
+[Arxiv, 2026](https://arxiv.org/abs/2604.19710) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/) \| [![](https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/motional/SpanVLA)
+
 
 
 </div>
