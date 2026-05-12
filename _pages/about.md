@@ -23,6 +23,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 
 # 🔥 News
+- *2026.05*: &nbsp;👏 Our [MDrive](https://arxiv.org/abs/2605.10904) paper on benchmarking closed-loop cooperative driving has been released! Join our [MDrive Challenge](https://mdrive-challenge.github.io/) in [CVPR 2026](https://cvpr.thecvf.com/)! 
 - *2026.04*: &nbsp;👏 Our [SpanVLA](https://spanvla.github.io/) paper on eficient action bridging and learning from negative-recovery samples for VLA Model has been released!
 - *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
 - *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI PhD Fellow](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer) for 2025, and received the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
@@ -38,7 +39,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 <!-- - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
 
-# 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;">( [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) )</span>
+# 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;"> | [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) | *: Equal Contributions, ‡: Project Leader </span>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/SpanVLA_demo.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +56,23 @@ SpanVLA introduce a efficient action bridging with sparse KV-Cache and history i
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MDrive_teaser.jpg' alt="sym" width="97.5%"></div>
+<div class='paper-box-text' markdown="1">
+
+**MDrive: Benchmarking Closed-Loop Cooperative Driving for End-to-End Multi-agent Systems**
+
+<span style="color:#7a8288;">Marco Coscoy*, </span> **Zewei Zhou**\*<sup>‡</sup>, <span style="color:#7a8288;">Seth Z. Zhao*<sup>‡</sup>, Henry Wei, Angela Magtoto, Johnson Liu, Rui Song, Walter Zimmer, Zhiyu Huang, Chen Tang, Bolei Zhou, Jiaqi Ma</span>
+
+MDrive is a closed-loop cooperative driving benchmark with diverse interaction scenarios, and systematically analyze the V2X benefits across perception sharing and decision negotiation.
+
+[Arxiv, 2026](https://arxiv.org/abs/2605.10904) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2605.10904) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](hhttps://mdrive-challenge.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/MDrive?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/MDrive)
+
+
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -101,12 +119,12 @@ TurboTrain is an efficient training framework for multi-agent perception and pre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/RiskMM.png' alt="sym" width="100%"></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/RiskMM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Risk Map As Middleware: Towards Interpretable Cooperative End-to-end Autonomous Driving for Risk-Aware Planning**
 
-**Zewei Zhou***, <span style="color:#7a8288;">Mingyue Lei*, Hongchen Li, Jiaqi Ma, Jia Hu</span>
+<span style="color:#7a8288;">Mingyue Lei*, </span> **Zewei Zhou**\*, <span style="color:#7a8288;"> Hongchen Li, Jiaqi Ma, Jia Hu</span>
 
 RiskMM is an interpretable end-to-end cooperative driving framework by incorporating the Risk Map as Middleware, which explicitly captures the spatiotemporal risk distribution and facilitates planning with learning-based MPC.
 
@@ -114,14 +132,14 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Co-MTP.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**
 
-**Zewei Zhou***, <span style="color:#7a8288;">Xinyu Zhang*, Zhaoyi Wang, Yangjie Ji, Yanjun Huang, Hong Chen</span>
+<span style="color:#7a8288;">Xinyu Zhang*, </span> **Zewei Zhou**\*, <span style="color:#7a8288;"> Zhaoyi Wang, Yangjie Ji, Yanjun Huang, Hong Chen</span>
 
 Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning.
 
@@ -159,7 +177,7 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/Survey_on_Trajectory_Prediction_Methods.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A Survey on Trajectory-Prediction Methods for Autonomous Driving**
@@ -174,7 +192,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 
 </div>
-</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
