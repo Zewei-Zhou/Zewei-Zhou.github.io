@@ -107,3 +107,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-panel {
+    margin-bottom: 1.4em;
+    padding: 0.8em 1em;
+
+    .news-list {
+        margin: 0;
+        padding-left: 1.2em;
+        max-height: 13em;
+        overflow-y: auto;
+        padding-right: 0.4em;
+    }
+
+    .news-list li {
+        margin-bottom: 0.45em;
+    }
+}

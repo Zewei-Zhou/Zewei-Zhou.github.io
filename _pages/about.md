@@ -17,24 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
+👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/), and a incoming research intern at [NVIDIA Research](https://research.nvidia.com/labs/avg/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
 My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
 
 
 # 🔥 News
-- *2026.05*: &nbsp;👏 Our [MDrive](https://arxiv.org/abs/2605.10904) paper on benchmarking closed-loop cooperative driving has been released! Join our [MDrive Challenge](https://mdrive-challenge.github.io/) in [CVPR 2026](https://cvpr.thecvf.com/)! 
-- *2026.04*: &nbsp;👏 Our [SpanVLA](https://spanvla.github.io/) paper on eficient action bridging and learning from negative-recovery samples for VLA Model has been released!
-- *2025.10*: &nbsp;🎉 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) paper won the [Best Paper Award (1st)]() at the [ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)!
-- *2025.09*: &nbsp;🎉 I am honored to be selected as an [Amazon AI PhD Fellow](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer) for 2025, and received the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
-- *2025.09*: &nbsp;👏 Our [AutoVLA](https://arxiv.org/pdf/2506.13757) paper on the Vision-language-action model for end-to-end autonomous driving has been accepted by [NeurIPS 2025](https://neurips.cc/)!
-- *2025.06*: &nbsp;👏 Our [V2XPnP](https://mobility-lab.seas.ucla.edu/v2xpnp/) and [TurboTrain](https://arxiv.org/pdf/2508.04682) paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by [ICCV 2025](https://iccv.thecvf.com/)!
-- *2025.06*: &nbsp;👏 Our [CooperRisk](https://arxiv.org/pdf/2506.15868v1) paper on the cooperative multi-agent prediction and risk quantification has been accepted by [IROS 2025 (Oral)](https://www.iros25.org/).
-- *2025.01*: &nbsp;👏 Our [Co-MTP](https://xiaomiaozhang.github.io/Co-MTP/) paper on cooperative prediction framework with multi-temporal fusion has been accepted by [ICRA 2025](https://2025.ieee-icra.org/). 
+<div class="news-panel">
+<ul class="news-list">
+  <li><em>2026.05</em>: &nbsp;👏 Our <a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
+  <li><em>2026.04</em>: &nbsp;👏 Our <a href="https://spanvla.github.io/">SpanVLA</a> paper on eficient action bridging and learning from negative-recovery samples for VLA has been released!</li>
+  <li><em>2025.10</em>: &nbsp;🎉 Our <a href="https://mobility-lab.seas.ucla.edu/v2xpnp/">V2XPnP</a> paper won the <a href="">Best Paper Award (1st)</a> at the <a href="https://drivex-workshop.github.io/">ICCV 2025 DriveX Workshop</a>!</li>
+  <li><em>2025.09</em>: &nbsp;🎉 I am honored to be selected as an <a href="https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer">Amazon AI PhD Fellow</a> for 2025, and received the <a href="https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program">Amazon AI PhD Fellowship</a>.</li>
+  <li><em>2025.09</em>: &nbsp;👏 Our <a href="https://arxiv.org/pdf/2506.13757">AutoVLA</a> paper on the VLA model for end-to-end autonomous driving has been accepted by <a href="https://neurips.cc/">NeurIPS 2025</a>!</li>
+  <li><em>2025.06</em>: &nbsp;👏 Our <a href="https://mobility-lab.seas.ucla.edu/v2xpnp/">V2XPnP</a> and <a href="https://arxiv.org/pdf/2508.04682">TurboTrain</a> paper on the end-to-end multi-task framework for multi-agent multi-frame system and the efficient & balanced multi-task learning strategies for the system have been accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a>!</li>
+  <!-- <li><em>2025.06</em>: &nbsp;👏 Our <a href="https://arxiv.org/pdf/2506.15868v1">CooperRisk</a> paper on the cooperative multi-agent prediction and risk quantification has been accepted by <a href="https://www.iros25.org/">IROS 2025 (Oral)</a>.</li> -->
+  <li><em>2025.01</em>: &nbsp;👏 Our <a href="https://xiaomiaozhang.github.io/Co-MTP/">Co-MTP</a> paper on cooperative prediction framework with multi-temporal fusion has been accepted by <a href="https://2025.ieee-icra.org/">ICRA 2025</a>.</li>
+  <!-- - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award! -->
+  <li><em>2024.08</em>: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as <a href="">Best Paper Award for Outstanding Survey</a> of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857">IEEE T-IV</a>!</li>
+  <li><em>2024.07</em>: &nbsp;👏 Our <a href="https://mobility-lab.seas.ucla.edu/v2x-real/">V2X-Real</a> paper on multi-agents and multi-modal cooperative perception has been accepted by <a href="https://eccv.ecva.net/virtual/2024/poster/988">ECCV 2024</a>.</li>
+  <li><em>2023.06</em>: &nbsp;🎉 Shanghai Outstanding Graduate Honor!</li>
+</ul>
+</div>
 <!-- - *2025.01*: &nbsp;🎉 Our team secured the Tier 1 in the [U.S.DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award! -->
-- *2024.08*: &nbsp;🎉 Our survey paper on trajectory prediction has been awarded as [Best Paper Award for Outstanding Survey]() of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)! 
-- *2024.07*: &nbsp;👏 Our [V2X-Real](https://mobility-lab.seas.ucla.edu/v2x-real/) paper on multi-agents and multi-modal cooperative perception has been accepted by [ECCV 2024](https://eccv.ecva.net/virtual/2024/poster/988). 
-- *2023.06*: &nbsp;🎉 Shanghai Outstanding Graduate Honor!
 
 <!-- - *2022.03*: &nbsp;🎉 Our paper on speed prediction in transportation systems has been accepted by [iScience (Cell Press)](https://www.cell.com/iscience/home)！
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
@@ -52,7 +57,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2604.19710">Arxiv (Preprint), 2026</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/) \| <a href="https://github.com/motional/SpanVLA"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2604.19710"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://spanvla.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/motional/SpanVLA"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 
 
@@ -68,9 +73,9 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <!-- MDrive is a closed-loop cooperative driving benchmark with diverse interaction scenarios, and systematically analyze the V2X benefits across perception sharing and decision negotiation. -->
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.10904">Arxiv, 2026</a></div>
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.10904">Arxiv (Preprint), 2026</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2605.10904) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mdrive-challenge.github.io/) \| <a href="https://github.com/ucla-mobility/MDrive"><img src="https://img.shields.io/github/stars/ucla-mobility/MDrive?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2605.10904"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://mdrive-challenge.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/ucla-mobility/MDrive"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/ucla-mobility/MDrive?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 
 
@@ -89,7 +94,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <div style="margin-bottom: 0.8em;"><a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS), 2025</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| <a href="https://github.com/ucla-mobility/AutoVLA"><img src="https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2506.13757"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://autovla.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/ucla-mobility/AutoVLA"><img src="https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a></span>
 
 
 </div>
@@ -106,7 +111,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <div style="margin-bottom: 0.8em;"><a href="https://iccv.thecvf.com/">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</a><br><span style="color:#ee9536;"><strong>Best Paper Award, ICCV 2025 DriveX Workshop</strong></span></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| <a href="https://github.com/Zewei-Zhou/V2XPnP"><img src="https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2412.01812"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://mobility-lab.seas.ucla.edu/v2xpnp/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/Zewei-Zhou/V2XPnP"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 </div>
 </div>
@@ -122,7 +127,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <div style="margin-bottom: 0.8em;"><a href="https://iccv.thecvf.com/">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.04682) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://github.com/ucla-mobility/TurboTrain) \| <a href="https://github.com/ucla-mobility/TurboTrain"><img src="https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2508.04682"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/ucla-mobility/TurboTrain"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/ucla-mobility/TurboTrain"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 </div>
 </div>
@@ -153,7 +158,7 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 <div style="margin-bottom: 0.8em;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA), 2025</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| <a href="https://github.com/xiaomiaozhang/Co-MTP"><img src="https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2502.16589"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://xiaomiaozhang.github.io/Co-MTP/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/xiaomiaozhang/Co-MTP"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 
 </div>
@@ -170,7 +175,7 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 <div style="margin-bottom: 0.8em;"><a href="https://eccv.ecva.net/Conferences/2024">European Conference on Computer Vision (ECCV), 2024</a></div>
 
-[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| <a href="https://github.com/ucla-mobility/V2X-Real"><img src="https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2403.16034"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://mobility-lab.seas.ucla.edu/v2x-real"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/ucla-mobility/V2X-Real"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 </div>
 </div>
@@ -228,9 +233,9 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 <!-- </div> -->
 
 # 📖 Educations
-- *2023.09 - Now*, Ph.D., Transportation Engineering, <img src='images/ucla_seal.jpg' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> University of California, Los Angeles (UCLA), U.S.
-- *2020.09 - 2023.06*, M.S., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (Tongji), Shanghai, China **(Test Waiver Admission)**
-- *2016.09 - 2020.06*, B.Eng., Automotive Engineering, <img src='images/CQU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
+- *2023.09 - Now*, <span style='display:inline-block; min-width:4.5em;'>Ph.D.</span> <img src='images/ucla_seal.jpg' style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> University of California, Los Angeles (UCLA), U.S.
+- *2020.09 - 2023.06*, <span style='display:inline-block; min-width:2.95em;'>M.S.</span> <img src='images/Tongji_logo.png' style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> Tongji University (Tongji), Shanghai, China **(Test Waiver Admission)**
+- *2016.09 - 2020.06*, <span style='display:inline-block; min-width:3em;'>B.Eng.</span> <img src='images/CQU_logo.png' style='width: 25px; height: 25px; object-fit: contain; vertical-align: middle; margin-right:0px;'> Chongqing University (CQU), Chongqing, China **(Outstanding Graduate,Top 1%)**
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp; [Best Paper Award, ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)
