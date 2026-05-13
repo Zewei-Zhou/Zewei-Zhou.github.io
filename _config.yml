@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zewei Zhou - Homepage"
-description              : ""
+description              : "PhD Student at UCLA, AI and Autonomous Systems"
 repository               : "Zewei-Zhou/Zewei-Zhou.github.io"
 url                      : "https://zewei-zhou.github.io"
 google_scholar_stats_use_cdn : false
@@ -22,6 +22,7 @@ bing_site_verification   : "0B4D1B1C40547B16BD2FC418C3099422"
 
 # Site Author
 author:
+  # name             : "Zewei Zhou <span class='name-zh'>周泽纬</span>"
   name             : "Zewei Zhou"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "<span style='display:inline-block; margin-top:7px;'>PhD Student at <img src='images/logo_UCLA_blue.png' alt='UCLA Logo' style='width: 37px; height: auto; vertical-align:-3%; margin-right:5px;'></span> <br> Incoming Intern at <img src='images/NVIDIA-Logo.jpg' alt='NV Logo' style='width: 30px; height: auto; vertical-align:-16%; margin-right:5px;'> <br><span style='display:inline-block; margin-top:10px;'>AI and Autonomous Systems</span>"
