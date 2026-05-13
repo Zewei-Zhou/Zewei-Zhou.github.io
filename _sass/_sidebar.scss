@@ -134,6 +134,7 @@
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
+  color: $text-color;
 }
 
 .author__bio {
@@ -143,6 +144,14 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
+}
+
+.sidebar .author__content,
+.sidebar .author__bio,
+.sidebar .author__urls-wrapper,
+.sidebar .author__urls,
+.sidebar .author__urls_sm {
+  color: mix(#fff, $text-color, 2%);
 }
 
 .author__urls-wrapper {

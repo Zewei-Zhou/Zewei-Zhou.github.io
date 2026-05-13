@@ -48,9 +48,11 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 **Zewei Zhou***, <span style="color:#7a8288;">Ruining Yang*, Tony Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma</span>
 
-SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness.
+<!-- SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness. -->
 
-[Arxiv, 2026](https://arxiv.org/abs/2604.19710) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/) \| [![](https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/motional/SpanVLA)
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2604.19710">Arxiv (Preprint), 2026</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2604.19710) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://spanvla.github.io/) \| <a href="https://github.com/motional/SpanVLA"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 
 
@@ -64,9 +66,11 @@ SpanVLA introduce a efficient action bridging with sparse KV-Cache and history i
 
 <span style="color:#7a8288;">Marco Coscoy*, </span> **Zewei Zhou**\*<sup>‡</sup>, <span style="color:#7a8288;">Seth Z. Zhao*<sup>‡</sup>, Henry Wei, Angela Magtoto, Johnson Liu, Rui Song, Walter Zimmer, Zhiyu Huang, Chen Tang, Bolei Zhou, Jiaqi Ma</span>
 
-MDrive is a closed-loop cooperative driving benchmark with diverse interaction scenarios, and systematically analyze the V2X benefits across perception sharing and decision negotiation.
+<!-- MDrive is a closed-loop cooperative driving benchmark with diverse interaction scenarios, and systematically analyze the V2X benefits across perception sharing and decision negotiation. -->
 
-[Arxiv, 2026](https://arxiv.org/abs/2605.10904) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2605.10904) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](hhttps://mdrive-challenge.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/MDrive?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/MDrive)
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.10904">Arxiv, 2026</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2605.10904) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mdrive-challenge.github.io/) \| <a href="https://github.com/ucla-mobility/MDrive"><img src="https://img.shields.io/github/stars/ucla-mobility/MDrive?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 
 
@@ -81,9 +85,11 @@ MDrive is a closed-loop cooperative driving benchmark with diverse interaction s
 
 **Zewei Zhou***, <span style="color:#7a8288;">Tianhui Cai*, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
 
- AutoVLA is a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving.
+ <!-- AutoVLA is a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving. -->
 
-[NeurIPS, 2025](https://neurips.cc/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| [![](https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/AutoVLA)
+<div style="margin-bottom: 0.8em;"><a href="https://neurips.cc/">Conference on Neural Information Processing Systems (NeurIPS), 2025</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2506.13757) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://autovla.github.io/) \| <a href="https://github.com/ucla-mobility/AutoVLA"><img src="https://img.shields.io/github/stars/ucla-mobility/AutoVLA?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 
 </div>
@@ -96,11 +102,11 @@ MDrive is a closed-loop cooperative driving benchmark with diverse interaction s
 
 **Zewei Zhou**, <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
 
-V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I).
+<!-- V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I). -->
 
-<span style="color:#68349a;"> **Best Paper Award, ICCV 2025 DriveX Workshop** </span>
+<div style="margin-bottom: 0.8em;"><a href="https://iccv.thecvf.com/">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</a><br><span style="color:#ee9536;"><strong>Best Paper Award, ICCV 2025 DriveX Workshop</strong></span></div>
 
-[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| [![](https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/Zewei-Zhou/V2XPnP)
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2412.01812) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2xpnp/) \| <a href="https://github.com/Zewei-Zhou/V2XPnP"><img src="https://img.shields.io/github/stars/Zewei-Zhou/V2XPnP?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 </div>
 </div>
@@ -112,9 +118,11 @@ V2XPnP includes the first open-source V2X spatio-temporal fusion framework for c
 
 **Zewei Zhou***, <span style="color:#7a8288;"> Seth Z. Zhao*, Tianhui Cai, Zhiyu Huang, Bolei Zhou, Jiaqi Ma </span>
 
-TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance.
+<!-- TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance. -->
 
-[ICCV, 2025](https://iccv.thecvf.com/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.04682) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://github.com/ucla-mobility/TurboTrain) \| [![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/TurboTrain)
+<div style="margin-bottom: 0.8em;"><a href="https://iccv.thecvf.com/">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2508.04682) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://github.com/ucla-mobility/TurboTrain) \| <a href="https://github.com/ucla-mobility/TurboTrain"><img src="https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 </div>
 </div>
@@ -141,9 +149,11 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 <span style="color:#7a8288;">Xinyu Zhang*, </span> **Zewei Zhou**\*, <span style="color:#7a8288;"> Zhaoyi Wang, Yangjie Ji, Yanjun Huang, Hong Chen</span>
 
-Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning.
+<!-- Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning. -->
 
-[ICRA, 2025](https://2025.ieee-icra.org/) \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| [![](https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/xiaomiaozhang/Co-MTP)
+<div style="margin-bottom: 0.8em;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA), 2025</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2502.16589) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://xiaomiaozhang.github.io/Co-MTP/) \| <a href="https://github.com/xiaomiaozhang/Co-MTP"><img src="https://img.shields.io/github/stars/xiaomiaozhang/Co-MTP?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 
 </div>
@@ -156,9 +166,11 @@ Co-MTP is a general cooperative trajectory prediction framework with multi-tempo
 
 <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Xin Xia, Runsheng Xu, Letian Gao,</span> **Zewei Zhou**<span style="color:#7a8288;">, Xu Han, Xinkai Ji, Mingxi Li, Zonglin Meng, Jin Li, Mingyue Lei, Zhaoyang Ma, Zihang He, Haoxuan Ma, Yunshuang Yuan, Yingqian Zhao, Jiaqi Ma</span>
 
-V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception.
+<!-- V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception. -->
 
-[ECCV, 2024](https://eccv.ecva.net/Conferences/2024)  \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| [![](https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/ucla-mobility/V2X-Real)
+<div style="margin-bottom: 0.8em;"><a href="https://eccv.ecva.net/Conferences/2024">European Conference on Computer Vision (ECCV), 2024</a></div>
+
+[<img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/pdf/2403.16034) \| [<img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'>](https://mobility-lab.seas.ucla.edu/v2x-real) \| <a href="https://github.com/ucla-mobility/V2X-Real"><img src="https://img.shields.io/github/stars/ucla-mobility/V2X-Real?style=social&label=Code%20Stars&logoColor=2c4a88" alt="Code Stars" style="height: 21.6px; width: auto; vertical-align: -25.7%;" /></a>
 
 </div>
 </div>
@@ -196,7 +208,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🔬 Project
+<!-- # 🔬 Project
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/gif_parking.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -207,13 +219,13 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 **Student Researcher**
 
-Design an A*-based global motion planner for the given park and propose a cooperative planning and control framework for the four AGVs groups to coordinate their movement and guide them to move a bus to its destination. 
+<!-- Design an A*-based global motion planner for the given park and propose a cooperative planning and control framework for the four AGVs groups to coordinate their movement and guide them to move a bus to its destination.  -->
 
-The system is tested in a real AGVs platform and can provide a valet experience.
+<!-- The system is tested in a real AGVs platform and can provide a valet experience. -->
 
 
-</div>
-</div>
+<!-- </div> -->
+<!-- </div> -->
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D., Transportation Engineering, <img src='images/ucla_seal.jpg' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> University of California, Los Angeles (UCLA), U.S.
@@ -249,8 +261,8 @@ The system is tested in a real AGVs platform and can provide a valet experience.
 
 **Conference Reviewer**: 
 - IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
-- Annual Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
-- Annual AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/))
+- Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
+- AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/))
 - IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
 - IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros))
 - IEEE Intelligent Vehicles Symposium ([IV](https://ieee-iv.org/))

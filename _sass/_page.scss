@@ -68,6 +68,19 @@
 
   p, li, dl {
     font-size: 1em;
+    color: mix(#fff, $text-color, 7%);
+  }
+
+  strong,
+  b {
+    color: mix(#fff, $text-color, 2%);
+    // color: $text-color;
+  }
+
+  /* let explicit inline color wrappers (e.g., span style="color:...") win */
+  span[style*="color"] strong,
+  span[style*="color"] b {
+    color: inherit;
   }
 
   /* paragraph indents */
