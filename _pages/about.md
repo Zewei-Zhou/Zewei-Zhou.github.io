@@ -19,13 +19,13 @@ redirect_from:
 
 👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [Motional](https://motional.com/), and a incoming research intern at [NVIDIA Research](https://research.nvidia.com/labs/avg/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
+My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
 
 
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
-  <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
+  <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
   <li><em>2026.04</em>: &nbsp;👏 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper on eficient action bridging and learning from negative-recovery samples for VLA has been released!</li>
   <li><em>2025.10</em>: &nbsp;🎉 &nbsp;<a href="https://mobility-lab.seas.ucla.edu/v2xpnp/">V2XPnP</a> paper won the <a href="">Best Paper Award (1st)</a> at the <a href="https://drivex-workshop.github.io/">ICCV 2025 DriveX Workshop</a>!</li>
