@@ -10,7 +10,7 @@ title                    : "Zewei Zhou - Homepage"
 description              : "PhD Student at UCLA, AI and Autonomous Systems"
 repository               : "Zewei-Zhou/Zewei-Zhou.github.io"
 url                      : "https://zewei-zhou.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : G-3LZRWKMPZ1
