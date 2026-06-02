@@ -25,7 +25,7 @@ author:
   # name             : "Zewei Zhou <span class='name-zh'>周泽纬</span>"
   name             : "Zewei Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<span style='display:inline-block; margin-top:7px;'>PhD Student at <img src='images/logo_UCLA_blue.png' alt='UCLA Logo' style='width: 37px; height: auto; vertical-align:-3%; margin-right:5px;'></span> <br> Incoming Intern at <img src='images/NVIDIA-Logo.jpg' alt='NV Logo' style='width: 30px; height: auto; vertical-align:-16%; margin-right:5px;'> <br><span style='display:inline-block; margin-top:10px;'>AI and Autonomous Systems</span>"
+  bio              : "<span style='display:inline-block; margin-top:7px;'>PhD Student at <img src='images/logo_UCLA_blue.png' alt='UCLA Logo' style='width: 37px; height: auto; vertical-align:-3%; margin-right:5px;'></span> <br> Research Intern at <img src='images/NVIDIA-Logo.jpg' alt='NV Logo' style='width: 30px; height: auto; vertical-align:-16%; margin-right:5px;'> <br><span style='display:inline-block; margin-top:10px;'>AI and Autonomous Systems</span>"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
