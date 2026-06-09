@@ -25,8 +25,8 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
-  <li><em>2026.06</em>: &nbsp;💻 &nbsp; Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern at the <a href="https://research.nvidia.com/labs/avg/">Autonomous Vehicle Group</a>.</li>
-  <li><em>2026.06</em>: &nbsp;👏 &nbsp; <a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on Reasoning-Centric Dataset and Benchmark has been released! Join our <a href="https://nureasoning.github.io/">nuReasoning Challenge</a>!</li>
+  <li><em>2026.06</em>: &nbsp;💻 &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern at the <a href="https://research.nvidia.com/labs/avg/">Autonomous Vehicle Group</a>.</li>
+  <li><em>2026.06</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on Reasoning-Centric Dataset and Benchmark has been released! Join our <a href="https://nureasoning.github.io/">nuReasoning Challenge</a>!</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
   <li><em>2026.04</em>: &nbsp;👏 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper on eficient action bridging and learning from negative-recovery samples for VLA has been released!</li>
@@ -49,7 +49,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 # 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;"> | [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) | *: Equal Contributions, ‡: Project Leader </span>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/SpanVLA_demo.gif' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/SpanVLA_demo2.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**
@@ -67,14 +67,14 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><video src='images/nuReasoning.mp4' width="100%" autoplay loop muted playsinline onloadeddata="this.playbackRate=1.5;"></video></div>
+<div class='paper-box'><div class='paper-box-image'><video src='images/nuReasoning.mp4' width="100%" autoplay loop muted playsinline onloadeddata="this.playbackRate=4.0;"></video></div>
 <div class='paper-box-text' markdown="1">
 
 **nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**
 
 <span style="color:#7a8288;">Zhiyu Huang\*, Johnson Liu\*, Rui Song\*,</span> **Zewei Zhou**<span style="color:#7a8288;">, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony Qi, Jiaqi Ma</span>
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.31572">Arxiv (Preprint), 2026.</a> <span style="color:#ee9536;"><strong>Official nu-dataset series of Motional</strong></span></div>
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.31572">Arxiv (Preprint), 2026.</a> <span style="color:#ee9536;"><strong><a href="https://motional.com/news/cracking-long-tail-code-autonomous-driving-nureasoning" style="color:#ee9536;">Official nu-dataset series of Motional</a></strong></span></div>
 
 <span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/abs/2605.31572"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://nureasoning.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://huggingface.co/datasets/qixuewei/nuReasoning"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
@@ -259,7 +259,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 # 🎖 Honors and Awards
 - *2026.05* &nbsp; [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america)
 - *2025.10* &nbsp; [Best Paper Award, ICCV 2025 DriveX Workshop](https://drivex-workshop.github.io/)
-- *2025.10* &nbsp; [NeurIPS 2025 Scholar Award](https://neurips.cc/)
+<!-- - *2025.10* &nbsp; [NeurIPS 2025 Scholar Award](https://neurips.cc/) -->
 - *2025.09* &nbsp; [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer)
 - *2025.01* &nbsp; [Tier 1 Winner of U.S. DOT Intersection Safety Challenge](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge-stage-1b-system-assessment-and) with a $750k award
 - *2024.08* &nbsp; [Best Paper Award for Outstanding Survey](), [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
@@ -268,7 +268,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 - *2021.09* &nbsp; Tongji Outstanding Master’s Scholarship
 - *2019.09* &nbsp; Gratitude to Scientists Scholarship (**Highest scholarship in CQU, Top 0.2%**)
 - *2018.09* &nbsp; National Scholarship, China (**Top 1%**)
-<!-- - *2018-2019* &nbsp; CQU First-class Scholarship (Four times, **Top 2  %**) -->
+<!-- - *2018-2019* &nbsp; CQU First-class Scholarship (Four times, **Top 2  %**) --> 
 
 <!-- - *2024.01* &nbsp; [Winner of Intersection Safety System Challenge from USDOT Stage 1A with a ](https://www.transportation.gov/briefing-room/us-dot-announces-winners-intersection-safety-challenge) -->
 
