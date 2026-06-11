@@ -25,8 +25,8 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
-  <li><em>2026.06</em>: &nbsp;💻 &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern at the <a href="https://research.nvidia.com/labs/avg/">Autonomous Vehicle Group</a>.</li>
-  <li><em>2026.06</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on Reasoning-Centric Dataset and Benchmark has been released! Join our <a href="https://nureasoning.github.io/">nuReasoning Challenge</a>!</li>
+  <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the post-training of VLA model.</li>
+  <li><em>2026.06</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been released! Join our <a href="https://nureasoning.github.io/">nuReasoning Challenge</a>!</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
   <li><em>2026.04</em>: &nbsp;👏 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper on eficient action bridging and learning from negative-recovery samples for VLA has been released!</li>
