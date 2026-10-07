@@ -19,14 +19,14 @@ redirect_from:
 
 👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [NVIDIA Research](https://research.nvidia.com/labs/avg/) and a previous research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the Vision-Language-Action (VLA) models and closed-loop simulation in this domain. My research is supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
+My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the agentic system and self-improvement in this domain. My research is supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
 
 
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
-  <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the post-training of VLA model.</li>
-  <li><em>2026.06</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been released! Join our <a href="https://nureasoning.github.io/">nuReasoning Challenge</a>!</li>
+  <li><em>2026.09</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been accepted by <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</li>
+  <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the self-improvement of reasoning models.</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
   <li><em>2026.04</em>: &nbsp;👏 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper on eficient action bridging and learning from negative-recovery samples for VLA has been released!</li>
@@ -49,10 +49,24 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 # 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;"> | [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) | *: Equal Contributions, ‡: Project Leader </span>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/VeriFine_framework.svg' alt="VeriFine framework: policy improvement and judge calibration loops with animated flow" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning**
+
+**Zewei Zhou**, <span style="color:#7a8288;">Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng, Boyi Li, Thomas Tian, Zheng Lian, Yan Wang, Jiaqi Ma, Boris Ivanovic, Marco Pavone, Wenhao Ding</span>
+
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.08761">Arxiv (Preprint), 2026</a></div>
+
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2610.08761"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://veri-fine.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a></span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/SpanVLA_demo2.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**
+**SpanVLA: Learning from Negative-Recovery Samples with Fast Action Bridging for Vision-Language-Action Model**
 
 **Zewei Zhou***, <span style="color:#7a8288;">Ruining Yang*, Tony Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma</span>
 
@@ -74,7 +88,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <span style="color:#7a8288;">Zhiyu Huang\*, Johnson Liu\*, Rui Song\*,</span> **Zewei Zhou**<span style="color:#7a8288;">, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony Qi, Jiaqi Ma</span>
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2605.31572">Arxiv (Preprint), 2026.</a> <span style="color:#ee9536;"><strong><a href="https://motional.com/news/cracking-long-tail-code-autonomous-driving-nureasoning" style="color:#ee9536;">Official nu-dataset series of Motional</a></strong></span></div>
+<div style="margin-bottom: 0.8em;"><a href="https://neurips.cc/Conferences/2026">Conference on Neural Information Processing Systems (NeurIPS), 2026.</a><br><span style="color:#ee9536;"><strong><a href="https://motional.com/news/cracking-long-tail-code-autonomous-driving-nureasoning" style="color:#ee9536;">Official nu-Dataset Series of Motional</a></strong></span></div>
 
 <span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/abs/2605.31572"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://nureasoning.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://huggingface.co/datasets/qixuewei/nuReasoning"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
@@ -166,6 +180,7 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 </div>
 </div> -->
 
+{% comment %}
 <div class='paper-box'><div class='paper-box-image'><img src='images/Co-MTP.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -182,6 +197,7 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 </div>
 </div>
+{% endcomment %}
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/V2X-Real.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
