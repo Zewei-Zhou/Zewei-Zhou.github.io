@@ -25,6 +25,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
+  <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://veri-fine.github.io/">VeriFine</a> paper on scaling verification for self-improvement in embodied reasoning has been released!</li>
   <li><em>2026.09</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been accepted by <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</li>
   <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the self-improvement of reasoning models.</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
