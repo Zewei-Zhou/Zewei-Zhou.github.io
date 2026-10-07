@@ -27,6 +27,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 <ul class="news-list">
   <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://veri-fine.github.io/">VeriFine</a> paper on scaling verification for self-improvement in embodied reasoning has been released!</li>
   <li><em>2026.09</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been accepted by <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</li>
+  <li><em>2026.09</em>: &nbsp;🎉 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper won the <a href="https://drivex-workshop.github.io/eccv2026/">Best Innovation Paper Award</a> at the <a href="https://drivex-workshop.github.io/eccv2026/">ECCV 2026 DriveX Workshop</a>!</li>
   <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the self-improvement of reasoning models.</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
@@ -73,7 +74,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 
 <!-- SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness. -->
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2604.19710">Arxiv (Preprint), 2026</a></div>
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2604.19710">Arxiv (Preprint), 2026</a><br><span style="color:#ee9536;"><strong><a href="https://drivex-workshop.github.io/eccv2026/" style="color:#ee9536;">Best Innovation Paper Award, ECCV 2026 DriveX Workshop</a></strong></span></div>
 
 <span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2604.19710"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://spanvla.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/motional/SpanVLA"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/motional/SpanVLA?style=social&label=Code&logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
