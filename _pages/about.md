@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles (UCLA), advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [NVIDIA Research](https://research.nvidia.com/labs/avg/) and a previous research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600). 
+👋 I am a final-year PhD candidate at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) of the University of California, Los Angeles, advised by [Prof. Jiaqi Ma](https://mobility-lab.seas.ucla.edu/about/). I am also a research intern at [NVIDIA Research](https://research.nvidia.com/labs/avg/), working with [Prof. Marco Pavone](https://research.nvidia.com/labs/aspire/author/marco-pavone/), and a previous research intern at [Motional](https://motional.com/). I received my master’s degree from Tongji University with the honor of Shanghai Outstanding Graduate, advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ) and [Prof. Zhuoping Yu](https://ieeexplore.ieee.org/author/37402463600).
 
-My research focuses on the scene understanding and reasoning of autonomous systems, which enables vehicles/robots to intelligently interact and cooperate with others. Currently, I am exploring the agentic system and self-improvement in this domain. My research is supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
+My research focuses on reasoning and self-improvement in autonomous agents, with the goal of enabling them to continually learn, intelligently interact with the environments, and collaborate with others.
+
+My work is generously supported by [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou) and [Amazon AI PhD Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-ai-phd-fellows/#main-footer).
 
 
 # 🔥 News
@@ -50,6 +52,7 @@ My research focuses on the scene understanding and reasoning of autonomous syste
 - *2021.12*: &nbsp;🤖 Our multiple automated guided vehicles (AGVs) passed through field testing and could coordinate movements with each other, [providing a valet experience](/#-project). -->
 
 # 📝 Selected Publications <span style="font-size: 1rem; font-weight: normal;"> | [See All Publications >](https://scholar.google.com/citations?user=TzhyHbYAAAAJ) | *: Equal Contributions, ‡: Project Leader </span>
+{: #publications}
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/VeriFine_framework.svg' alt="VeriFine framework: policy improvement and judge calibration loops with animated flow" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -299,25 +302,14 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 # 📚 Academic Services
 **Organizer**:
-- Organizer of [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in [CVPR 2026](https://drivex-workshop.github.io/cvpr2026/), [CVPR 2025](https://drivex-workshop.github.io/cvpr2025/) and [ICCV 2025](https://drivex-workshop.github.io/iccv2025/).
-- Organizer of Tutorial on [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at [ICCV 2025](https://iccv.thecvf.com/).
+- [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/iccv2025/) in ECCV 2026, CVPR 2026, CVPR 2025 and ICCV 2025.
+- [X-Sense: Cooperative Perception and Distributed Foundation Models for Smart Mobility](https://x-sense-tutorial.github.io/x-sense-tutorial/) at ECCV 2026.
+- [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at ICCV 2025.
 
-**Conference Reviewer**: 
-- IEEE / CVF Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
-- Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
-- AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/))
-- IEEE International Conference on Robotics and Automation ([ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra))
-- IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros))
-- IEEE Intelligent Vehicles Symposium ([IV](https://ieee-iv.org/))
-- IEEE Intelligent Transportation Systems Conference ([ITSC](https://ieee-itsc.org/))
-
-**Journal Reviewer**: 
-- International Journal of Computer Vision ([IJCV](https://link.springer.com/journal/11263))
-- IEEE Robotics and Automation Letters ([RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369))
-- IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))
-- IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
-
+**Reviewer**:
+- Conference Reviewer: [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/), [CVPR](https://cvpr.thecvf.com/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), [IV](https://ieee-iv.org/), [ITSC](https://ieee-itsc.org/)
+- Journal Reviewer: [IJCV](https://link.springer.com/journal/11263), [RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 
 # 🏓 Miscellaneous
 - I am a big fan of guitar, especially [Fingerstyle](https://en.wikipedia.org/wiki/Fingerstyle_guitar). My favorite acoustic guitarist is [Satoshi Gogo](https://en.gogosatoshi.com/). I also enjoy playing ping pong and badminton.
-- I enjoy graphic design, and designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/) of Tongji University and University of Cambridge.
+- I enjoy graphic design, and designed the logo for the Joint Lab [SFVGL](https://csrf.ac.uk/international/) of University of Cambridge and Tongji University.
