@@ -69,7 +69,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><video autoplay loop muted playsinline preload='metadata' poster='images/AutoAgent0_poster.jpg' width='100%' aria-label='AutoAgent0 overview: verified execution, adaptation, and driving with verified skills with the driving segment at 1.8x speed and the closing segment at original speed'><source src='images/AutoAgent0_demo.mp4' type='video/mp4'></video></div>
+<div class='paper-box'><div class='paper-box-image'><video autoplay loop muted playsinline preload='metadata' poster='images/AutoAgent0_poster.jpg' width='100%' aria-label='AutoAgent0 overview: verified execution, adaptation, and driving with verified skills with the driving segment at 3x speed and the closing segment at original speed'><source src='images/AutoAgent0_demo.mp4' type='video/mp4'></video></div>
 <div class='paper-box-text' markdown="1">
 
 **AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving**
