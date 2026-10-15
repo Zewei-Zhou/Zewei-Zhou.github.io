@@ -78,7 +78,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 <div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.18866">Arxiv (Preprint), 2026</a></div>
 
-<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2610.18866"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://jiagengliu02.github.io/AutoAgent0/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a></span>
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2610.18866"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://jiagengliu02.github.io/AutoAgent0/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://github.com/jiagengliu02/AutoAgent0"><span style="display:inline-block; width:60px; overflow:hidden; vertical-align:-12%; line-height:0; position:relative; top:6px;"><img src="https://img.shields.io/github/stars/jiagengliu02/AutoAgent0?style=social&amp;label=Code&amp;logoColor=2c4a88" alt="Code" style="height: 21.6px; width: auto; max-width:none; display:block;" /></span></a></span>
 
 </div>
 </div>
