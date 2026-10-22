@@ -27,7 +27,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 # 🔥 News
 <div class="news-panel">
 <ul class="news-list">
-  <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://veri-fine.github.io/">VeriFine</a> paper on scaling verification for self-improvement in embodied reasoning has been released!</li>
+  <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://veri-fine.github.io/">VeriFine</a> paper on scaling verification for self-improvement has been released! Access our <a href="https://github.com/NVlabs/alpajudge">AlpaJudge</a> here.</li>
   <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://jiagengliu02.github.io/AutoAgent0/">AutoAgent0</a> paper on an agentic runtime for safe closed-loop driving has been released!</li>
   <li><em>2026.09</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been accepted by <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</li>
   <li><em>2026.09</em>: &nbsp;🎉 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper won the <a href="https://drivex-workshop.github.io/eccv2026/">Best Innovation Paper Award</a> at the <a href="https://drivex-workshop.github.io/eccv2026/">ECCV 2026 DriveX Workshop</a>!</li>
