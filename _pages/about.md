@@ -62,7 +62,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **Zewei Zhou**, <span style="color:#7a8288;">Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng, Boyi Li, Thomas Tian, Zheng Lian, Yan Wang, Jiaqi Ma, Boris Ivanovic, Marco Pavone, Wenhao Ding</span>
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.08761">Arxiv (Preprint), 2026</a><br><span style="color:#ee9536;"><strong><a href="https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion" style="color:#ee9536;">NVIDIA AlpaJudge, Developed through VeriFine</a></strong></span></div>
+<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.08761">Arxiv (Preprint), 2026</a><br><span style="color:#ee9536;"><strong><a href="https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion" style="color:#ee9536;">NVIDIA AlpaJudge for Alpamayo, Developed through VeriFine</a></strong></span></div>
 
 <span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2610.08761"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://veri-fine.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a></span>
 
