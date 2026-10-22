@@ -60,9 +60,13 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning**
 
+<div class="paper-authors" markdown="1">
+
 **Zewei Zhou**, <span style="color:#7a8288;">Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng, Boyi Li, Thomas Tian, Zheng Lian, Yan Wang, Jiaqi Ma, Boris Ivanovic, Marco Pavone, Wenhao Ding</span>
 
-<div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.08761">Arxiv (Preprint), 2026</a><br><span style="color:#ee9536;"><strong><a href="https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion" style="color:#ee9536;">NVIDIA AlpaJudge for Alpamayo, Developed through VeriFine</a></strong></span></div>
+</div>
+
+<div style="margin-bottom: 1.2em;"><a href="https://arxiv.org/abs/2610.08761">Arxiv (Preprint), 2026</a><br><span style="color:#ee9536;"><strong><a href="https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion" style="color:#ee9536;">NVIDIA AlpaJudge for Alpamayo, Developed through VeriFine</a></strong></span></div>
 
 <span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2610.08761"><img src='images/paper.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://veri-fine.github.io/"><img src='images/project.png' style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a></span>
 
@@ -74,7 +78,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Jiageng Liu, Seth Z. Zhao<sup>‡</sup>, </span>**Zewei Zhou**<sup>‡</sup><span style="color:#7a8288;">, Alejandro Huerta, Aidan Bayer-Calvert, Yuxin Bao, Haotian Lin, Robert Spataru, Zijun Cui, Yining Hong, Bolei Zhou, Jiaqi Ma</span>
+
+</div>
 
 <div style="margin-bottom: 0.8em;"><a href="https://arxiv.org/abs/2610.18866">Arxiv (Preprint), 2026</a></div>
 
@@ -88,7 +96,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **SpanVLA: Learning from Negative-Recovery Samples with Fast Action Bridging for Vision-Language-Action Model**
 
+<div class="paper-authors" markdown="1">
+
 **Zewei Zhou***, <span style="color:#7a8288;">Ruining Yang*, Tony Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma</span>
+
+</div>
 
 <!-- SpanVLA introduce a efficient action bridging with sparse KV-Cache and history initialization and learn from negative-recovery samples to improve the robustness. -->
 
@@ -106,7 +118,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Zhiyu Huang\*, Johnson Liu\*, Rui Song\*,</span> **Zewei Zhou**<span style="color:#7a8288;">, Ruining Yang, Yun Zhang, Tianhui Cai, Hanyin Zhang, Mingxuan Gao, Valeria Xu, Jiali Chen, Yishan Shen, Yiluan Guo, Tony Qi, Jiaqi Ma</span>
+
+</div>
 
 <div style="margin-bottom: 0.8em;"><a href="https://neurips.cc/Conferences/2026">Conference on Neural Information Processing Systems (NeurIPS), 2026.</a><br><span style="color:#ee9536;"><strong><a href="https://motional.com/news/cracking-long-tail-code-autonomous-driving-nureasoning" style="color:#ee9536;">Official nu-Dataset Series of Motional</a> (<a href="https://www.nuscenes.org/" style="color:#ee9536;">nuScenes</a>, <a href="https://www.nuscenes.org/nuplan" style="color:#ee9536;">nuPlan</a>, <a href="https://nureasoning.github.io/" style="color:#ee9536;">nuReasoning</a>)</strong></span></div>
 
@@ -122,7 +138,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **MDrive: Benchmarking Closed-Loop Cooperative Driving for End-to-End Multi-agent Systems**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Marco Coscoy*, </span> **Zewei Zhou**\*<sup>‡</sup>, <span style="color:#7a8288;">Seth Z. Zhao*<sup>‡</sup>, Henry Wei, Angela Magtoto, Johnson Liu, Rui Song, Walter Zimmer, Zhiyu Huang, Chen Tang, Bolei Zhou, Jiaqi Ma</span>
+
+</div>
 
 <!-- MDrive is a closed-loop cooperative driving benchmark with diverse interaction scenarios, and systematically analyze the V2X benefits across perception sharing and decision negotiation. -->
 
@@ -141,7 +161,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**
 
+<div class="paper-authors" markdown="1">
+
 **Zewei Zhou***, <span style="color:#7a8288;">Tianhui Cai*,Seth Z. Zhao,Yun Zhang,Zhiyu Huang,Bolei Zhou,Jiaqi Ma</span>
+
+</div>
 
  <!-- AutoVLA is a novel VLA model that unifies reasoning and action generation within a single autoregressive generation model for end-to-end autonomous driving. -->
 
@@ -158,7 +182,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction**
 
+<div class="paper-authors" markdown="1">
+
 **Zewei Zhou**, <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Seth Z Zhao, Mingyue Lei, Yun Zhang, Tianhui Cai, Xinyi Liu, Johnson Liu, Maheswari Bajji, Xin Xia, Zhiyu Huang, Bolei Zhou, Jiaqi Ma</span>
+
+</div>
 
 <!-- V2XPnP includes the first open-source V2X spatio-temporal fusion framework for cooperative perception and prediction and the first real-world V2X sequential dataset featuring all V2X collaboration modes (VC, IC, V2V, I2I). -->
 
@@ -174,7 +202,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction**
 
+<div class="paper-authors" markdown="1">
+
 **Zewei Zhou***, <span style="color:#7a8288;"> Seth Z. Zhao*, Tianhui Cai, Zhiyu Huang, Bolei Zhou, Jiaqi Ma </span>
+
+</div>
 
 <!-- TurboTrain is an efficient training framework for multi-agent perception and prediction, eliminating the need for manually designing and tuning complex multi-stage training pipelines, reducing training time and improving performance. -->
 
@@ -190,7 +222,11 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 **Risk Map As Middleware: Towards Interpretable Cooperative End-to-end Autonomous Driving for Risk-Aware Planning**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Mingyue Lei*, </span> **Zewei Zhou**\*, <span style="color:#7a8288;"> Hongchen Li, Jiaqi Ma, Jia Hu</span>
+
+</div>
 
 RiskMM is an interpretable end-to-end cooperative driving framework by incorporating the Risk Map as Middleware, which explicitly captures the spatiotemporal risk distribution and facilitates planning with learning-based MPC.
 
@@ -206,7 +242,11 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Xinyu Zhang*, </span> **Zewei Zhou**\*, <span style="color:#7a8288;"> Zhaoyi Wang, Yangjie Ji, Yanjun Huang, Hong Chen</span>
+
+</div>
 
 <!-- Co-MTP is a general cooperative trajectory prediction framework with multi-temporal fusion, which leverages the V2X system to fully capture the interaction among agents in both history and future domains to benefit the planning. -->
 
@@ -224,7 +264,11 @@ RiskMM is an interpretable end-to-end cooperative driving framework by incorpora
 
 **V2X-Real: a Large-Scale Dataset for Vehicle-to-Everything Cooperative Perception**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;">Hao Xiang, Zhaoliang Zheng, Xin Xia, Runsheng Xu, Letian Gao,</span> **Zewei Zhou**<span style="color:#7a8288;">, Xu Han, Xinkai Ji, Mingxi Li, Zonglin Meng, Jin Li, Mingyue Lei, Zhaoyang Ma, Zihang He, Haoxuan Ma, Yunshuang Yuan, Yingqian Zhao, Jiaqi Ma</span>
+
+</div>
 
 <!-- V2X-Real is the first large-scale, real-world, multi-modal dataset for Vehicle-to-Everything (V2X) perception. -->
 
@@ -254,7 +298,11 @@ A complete picture of speed prediction and comprehensive analysis on speed predi
 
 **A Survey on Trajectory-Prediction Methods for Autonomous Driving**
 
+<div class="paper-authors" markdown="1">
+
 <span style="color:#7a8288;"> Yanjun Huang, Jiatong Du, Ziru Yang,</span> **Zewei Zhou**<span style="color:#7a8288;">, Lin Zhang, Hong Chen</span>
+
+</div>
 
 A comparative review and analysis of trajectory-prediction methods for autonomous driving and elaborate the popular methods based on physics, classic machine learning, deep learning, and reinforcement learning. 
 
