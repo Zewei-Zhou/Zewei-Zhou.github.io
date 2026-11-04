@@ -137,12 +137,14 @@ h1:before, .anchor:before {
 
 .talks-list {
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.4em 1.8em;
+    flex-wrap: nowrap;
+    gap: 1em;
+    overflow-x: auto;
     padding-left: 0;
     list-style-position: inside;
 
     li {
+        flex: 0 0 auto;
         margin: 0;
         white-space: nowrap;
     }
