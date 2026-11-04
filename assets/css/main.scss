@@ -134,3 +134,16 @@ h1:before, .anchor:before {
         margin-bottom: 0.45em;
     }
 }
+
+.talks-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em 1.8em;
+    padding-left: 0;
+    list-style-position: inside;
+
+    li {
+        margin: 0;
+        white-space: nowrap;
+    }
+}

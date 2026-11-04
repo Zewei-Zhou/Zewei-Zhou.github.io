@@ -31,6 +31,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
   <li><em>2026.10</em>: &nbsp;👏 &nbsp;<a href="https://jiagengliu02.github.io/AutoAgent0/">AutoAgent0</a> paper on an agentic runtime for safe closed-loop driving has been released!</li>
   <li><em>2026.09</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.31572">nuReasoning</a> paper on reasoning-centric dataset and benchmark has been accepted by <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</li>
   <li><em>2026.09</em>: &nbsp;🎉 &nbsp;<a href="https://spanvla.github.io/">SpanVLA</a> paper won the <a href="https://drivex-workshop.github.io/eccv2026/">Best Innovation Paper Award</a> at the <a href="https://drivex-workshop.github.io/eccv2026/">ECCV 2026 DriveX Workshop</a>!</li>
+  <li><em>2026.06</em>: &nbsp;👏 &nbsp;<a href="https://sherryliu3670.github.io/robopilot/">RoboPilot</a> paper on dynamic robotic manipulation has been accepted by <a href="https://www.rsj.or.jp/en/event/international/iros.html">IROS 2026</a>!</li>
   <li><em>2026.06</em>: &nbsp;✅ &nbsp;Join <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as a Research Intern, focusing on the self-improvement of reasoning models.</li>
   <li><em>2026.05</em>: &nbsp;🎉 &nbsp;Honored to received the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america#:~:text=Zewei%20Zhou">Qualcomm Innovation Fellowship</a> together with my amazing teammate <a href="https://sethzhao506.github.io/">Seth Z. Zhao.</a></li>
   <li><em>2026.05</em>: &nbsp;👏 &nbsp;<a href="https://arxiv.org/abs/2605.10904">MDrive</a> paper on closed-loop cooperative driving has been released! Join our <a href="https://mdrive-challenge.github.io/">MDrive Challenge</a> in <a href="https://cvpr.thecvf.com/">CVPR 2026</a>!</li>
@@ -113,6 +114,24 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 </div>
 </div>
 
+<div class='paper-box' id='robopilot'><div class='paper-box-image'><video autoplay loop muted playsinline preload='metadata' poster='images/RoboPilot_poster.jpg' width='100%' aria-label='RoboPilot robotic manipulation demo at twice the original speed'><source src='images/RoboPilot_demo.mp4' type='video/mp4'></video></div>
+<div class='paper-box-text' markdown="1">
+
+**RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes**
+
+<div class="paper-authors" markdown="1">
+
+<span style="color:#7a8288;">Xinyi Liu, Mohammadreza Fani Sani, </span>**Zewei Zhou**<sup>†</sup><span style="color:#7a8288;">, Julius Wirbel, Bahram Zarrin, Roberto Galeazzi</span>
+
+</div>
+
+<div style="margin-bottom: 0.8em;"><a href="https://www.rsj.or.jp/en/event/international/iros.html">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</a></div>
+
+<span style="display:inline-block; margin-left:-3px;"><a href="https://arxiv.org/pdf/2510.00154"><img src='images/paper.png' alt="Paper" style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a> | <a href="https://sherryliu3670.github.io/robopilot/"><img src='images/project.png' alt="Project" style='width: auto; height: 23px; vertical-align:-30%; margin-right:0px;'></a></span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><video src='images/nuReasoning.mp4' width="100%" autoplay loop muted playsinline onloadeddata="this.playbackRate=4.0;"></video></div>
 <div class='paper-box-text' markdown="1">
 
@@ -133,6 +152,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 </div>
 </div>
 
+{% comment %}
 <div class='paper-box'><div class='paper-box-image'><img src='images/MDrive_teaser.jpg' alt="sym" width="97.5%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,6 +174,7 @@ My work is generously supported by [Qualcomm Innovation Fellowship](https://www.
 
 </div>
 </div>
+{% endcomment %}
 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/AutoVLA_framework.png' alt="sym" width="100%"></div>
@@ -362,6 +383,14 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🎤 Talks
+{: #talks}
+
+- *2026*, [NVIDIA Research](https://www.nvidia.com/en-us/research/)
+- *2026*, [Woven by Toyota](https://woven.toyota/en/)
+- *2025*, [Motional](https://motional.com/)
+{: .talks-list}
 
 # 📚 Academic Services
 **Organizer**:
