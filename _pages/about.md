@@ -399,7 +399,7 @@ A comparative review and analysis of trajectory-prediction methods for autonomou
 - [Beyond Self-Driving: Exploring Three Levels of Driving Automation](https://drivex-tutorial.github.io/) at ICCV 2025.
 
 **Reviewer**:
-- Conference Reviewer: [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/), [CVPR](https://cvpr.thecvf.com/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), [IV](https://ieee-iv.org/), [ITSC](https://ieee-itsc.org/)
+- Conference Reviewer: [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/), [CVPR](https://cvpr.thecvf.com/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [RSS](https://roboticsconference.org/), [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros), [IV](https://ieee-iv.org/), [ITSC](https://ieee-itsc.org/)
 - Journal Reviewer: [IJCV](https://link.springer.com/journal/11263), [RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 
 # 🏓 Miscellaneous
